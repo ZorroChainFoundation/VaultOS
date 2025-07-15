@@ -24,7 +24,7 @@
 
 1. **Clone the VaultOS build repo**:
    ```bash
-   git clone https://github.com/ZorroChainFoundation/VaultOS.git
+   git clone https://github.com/your-org/vaultos-build.git
    cd vaultos-build
    
    
